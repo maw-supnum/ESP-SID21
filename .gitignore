@@ -1,0 +1,8 @@
+# .idea
+.idea
+
+# notebooks checkpoints
+.ipynb_checkpoints
+
+# virtual envs
+**.venv
